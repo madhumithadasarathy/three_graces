@@ -6,9 +6,6 @@ In this project, I wanted to show that creating a fancy design like this using #
 <img  widht="100%" height="auto" src="static/textures/imageSocial.jpg">
 
 
-# Live Link
-Live: https://threejs-graces.tiiny.site/
-
 # Getting Started
 Download and install Node.js on your computer (https://nodejs.org/en/download/).
 
