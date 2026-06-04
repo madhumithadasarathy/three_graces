@@ -5,7 +5,6 @@ In this project, I wanted to show that creating a fancy design like this using #
 
 <img  widht="100%" height="auto" src="static/textures/imageSocial.jpg">
 
-This project uses Threejs in vanillaJS with WebPack and is based on my boilerplate: https://github.com/ektogamat/threejs-andy-bolierplate. I think this could be easier to understand for those who isn't familiar with React Three Fiber yet (like myself).
 
 # Live Link
 Live: https://threejs-graces.tiiny.site/
